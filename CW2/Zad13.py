@@ -1,4 +1,3 @@
-
 def wypisz_slownik_z_list(lista_slownikow):
     output = ""
     for slownik in lista_slownikow:
