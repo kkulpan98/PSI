@@ -1,3 +1,3 @@
-tekst = "Zadanie numer 3"
+tekst = "Zadanie numer 4"
 print(dir(tekst))
 help(tekst.isupper())
