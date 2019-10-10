@@ -1,8 +1,8 @@
 def wypisz_slownik_z_list(lista_slownikow):
     output = ""
     for slownik in lista_slownikow:
-        for element in slownik:
-            output += slownik.get(element) + ' '
+        for element in slownik.values():
+            output += element + ' '
     print(output)
 
 
